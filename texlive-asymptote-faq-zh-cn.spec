@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Asymptote FAQ (Chinese translation)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asymptote-faq-zh-cn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/asymptote-faq-zh-cn
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asymptote-faq-zh-cn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asymptote-faq-zh-cn.doc.r%{version}.tar.xz
